@@ -1,0 +1,8 @@
+import java.util.Scanner;
+class Q005{
+    public static void main(String args[]){
+        Scanner scan=new Scanner(System.in);
+        String word=scan.nextLine();
+        System.out.println(word);
+    }
+}
